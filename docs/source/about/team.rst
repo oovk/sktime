@@ -50,34 +50,52 @@ Core Developers
 
    * - Name
      - GitHub ID
+     - Affiliation
    * - Aaron Bostrom
      - :user:`abostrom`
+     - University of East Anglia
    * - Anthony Bagnall
      - :user:`TonyBagnall`
+     - University of East Anglia
    * - Chris Holder
      - :user:`chrisholder`
-   * - Guzal Bulatova
-     - :user:`GuzalBulatova`
+     - University of East Anglia
    * - Franz Kiraly
      - :user:`fkiraly`
+     - Shell Research; University College London (honorary)
    * - Freddy A Boulton
      - :user:`freddyaboulton`
+     - Alteryx
    * - George Oastler
      - :user:`goastler`
-   * - Markus Löning
-     - :user:`mloning`
+     - University of East Anglia
+   * - Guzal Bulatova
+     - :user:`GuzalBulatova`
+     - Eneryield
    * - James Large
      - :user:`james-large`
+     - Alfa iQ
+   * - Jason Lines
+     - :user:`jasonlines`
+     - University of East Anglia  
+   * - Markus Löning
+     - :user:`mloning`
+     - Freelancer; Shell Research (contracting)
    * - Lovkush Agarwal
      - :user:`lovkush-a`
+     - Freelancer; Shell Research (contracting)
    * - Martin Walter
      - :user:`aiwalter`
+     - Mercedes-Benz
    * - Matthew Middlehurst
      - :user:`mattewmiddlehurst`
+     - University of East Anglia
    * - Ryan Kuhns
      - :user:`rnkuhns`
+     - Farm Credit Administration (USA)
    * - Svea Marie Meyer
      - :user:`SveaMeyer13`
+     - Technical University of Munich
 
 Former Core Developers (inactive)
 ---------------------------------
@@ -87,15 +105,19 @@ Former Core Developers (inactive)
 
    * - Name
      - GitHub ID
+     - Affiliation
    * - Ayushmaan Seth
      - :user:`ayushmaanseth`
+     - Amazon
    * - Hongyi Yang
      - :user:`hyang1996`
-   * - Jason Lines
-     - :user:`jasonlines`
+     - ETH Zurich
    * - Mathew Smith
      - :user:`matteogales`
+     - Brevan Howard
+   * - Omar Norton
+     - :user:`big-o`
+     - Meta/Facebook
    * - Patrick Rockenschaub
      - :user:`prockenschaub`
-   * -
-     - :user:`big-o`
+     - Sensyne Health; Charite Berlin
