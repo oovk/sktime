@@ -145,5 +145,3 @@ Former Core Developers (inactive)
      - :user:`rnkuhns`
      - Individual
      - Farm Credit Administration (USA)
-
-
