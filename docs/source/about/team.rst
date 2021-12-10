@@ -116,8 +116,8 @@ Core Developers
      - Technical University of Munich
 
 Explanation of columns:
-* column 1: primary GitHub user identifier used for contributions to `sktime`
-* column 2: full name of individual
+* column 1: full name of individual. May be anonymized upon contributor request.
+* column 2: primary GitHub user identifier used for contributions to `sktime`
 * column 3: affiliation which `sktime` contributions are subject to, that is,
 primary affiliation(s) of the role under which `sktime` contributions are made by the individual.
 * column 4: primary affiliation of the individual. This does not need to be equal to the primary affiliation of the `sktime` contributing role.
@@ -158,8 +158,8 @@ Former Core Developers (inactive)
      - Meta/Facebook
 
 Explanation of columns:
-* column 1: primary GitHub user identifier used for contributions to `sktime`
-* column 2: full name of individual
+* column 1: full name of individual. May be anonymized upon contributor request.
+* column 2: primary GitHub user identifier used for contributions to `sktime`
 * column 3: affiliation which `sktime` contributions are subject to, that is,
 primary affiliation(s) of the role under which `sktime` contributions are made by the individual.
 * column 4: primary affiliation of the individual. This does not need to be equal to the primary affiliation of the `sktime` contributing role.
