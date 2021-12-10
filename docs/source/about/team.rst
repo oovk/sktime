@@ -1,8 +1,10 @@
 .. _team:
 
-=====
-Roles
-=====
+====================
+Role holder register
+====================
+
+This page lists individuals with `sktime` governance roles.
 
 The roles are described in sktime's :ref:`governance` document.
 A list of all contributors can be found `here <contributors.md>`_.
