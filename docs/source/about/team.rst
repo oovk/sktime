@@ -155,7 +155,7 @@ Former Core Developers (inactive)
    * - [anonymous upon contributor request]
      - :user:`big-o`
      - Individual
-     - Meta/Facebook
+     - [redacted upon contributor request]
 
 Explanation of columns:
 * column 1: full name of individual. May be anonymized upon contributor request.
