@@ -152,7 +152,7 @@ Former Core Developers (inactive)
      - :user:`rnkuhns`
      - Individual
      - Farm Credit Administration (USA)
-   * - [anonymous]
+   * - [anonymous upon contributor request]
      - :user:`big-o`
      - Individual
      - Meta/Facebook
