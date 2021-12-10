@@ -52,51 +52,63 @@ Core Developers
 
    * - Name
      - GitHub ID
-     - Affiliation
+     - Current affiliation of contribution
+     - Affiliation of primary role
    * - Aaron Bostrom
      - :user:`abostrom`
+     - University of East Anglia
      - University of East Anglia
    * - Anthony Bagnall
      - :user:`TonyBagnall`
      - University of East Anglia
+     - University of East Anglia
    * - Chris Holder
      - :user:`chrisholder`
+     - University of East Anglia
      - University of East Anglia
    * - Franz Kiraly
      - :user:`fkiraly`
      - Shell Research; University College London (honorary)
+     - Shell Research
    * - Freddy A Boulton
      - :user:`freddyaboulton`
+     - Alteryx
      - Alteryx
    * - George Oastler
      - :user:`goastler`
      - University of East Anglia
+     - University of East Anglia
    * - Guzal Bulatova
      - :user:`GuzalBulatova`
+     - Individual
      - Eneryield
    * - James Large
      - :user:`james-large`
+     - Individual
      - Alfa iQ
    * - Jason Lines
      - :user:`jasonlines`
      - University of East Anglia
+     - University of East Anglia
    * - Markus Löning
      - :user:`mloning`
+     - Individual; Shell Research
      - Freelancer; Shell Research (contracting)
    * - Lovkush Agarwal
      - :user:`lovkush-a`
+     - Individual
      - Freelancer; Shell Research (contracting)
    * - Martin Walter
      - :user:`aiwalter`
      - Mercedes-Benz
+     - Mercedes-Benz
    * - Matthew Middlehurst
-     - :user:`mattewmiddlehurst`
+     - :user:`MatthewMiddlehurst`
      - University of East Anglia
-   * - Ryan Kuhns
-     - :user:`rnkuhns`
-     - Farm Credit Administration (USA)
+     - University of East Anglia
    * - Svea Marie Meyer
      - :user:`SveaMeyer13`
+     - Individual
      - Technical University of Munich
 
 Former Core Developers (inactive)
@@ -107,19 +119,31 @@ Former Core Developers (inactive)
 
    * - Name
      - GitHub ID
-     - Affiliation
+     - Affiliation of former contribution
+     - Affiliation of primary role
    * - Ayushmaan Seth
      - :user:`ayushmaanseth`
+     - Individual
      - Amazon
    * - Hongyi Yang
      - :user:`hyang1996`
+     - Individual
      - ETH Zurich
    * - Mathew Smith
      - :user:`matteogales`
+     - Individual
      - Brevan Howard
    * - Omar Norton
      - :user:`big-o`
+     - Individual
      - Meta/Facebook
    * - Patrick Rockenschaub
      - :user:`prockenschaub`
+     - University College London
      - Sensyne Health; Charite Berlin
+   * - Ryan Kuhns
+     - :user:`rnkuhns`
+     - Individual
+     - Farm Credit Administration (USA)
+
+
