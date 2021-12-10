@@ -144,10 +144,6 @@ Former Core Developers (inactive)
      - :user:`matteogales`
      - Individual
      - Brevan Howard
-   * - Omar Norton
-     - :user:`big-o`
-     - Individual
-     - Meta/Facebook
    * - Patrick Rockenschaub
      - :user:`prockenschaub`
      - University College London
@@ -156,6 +152,10 @@ Former Core Developers (inactive)
      - :user:`rnkuhns`
      - Individual
      - Farm Credit Administration (USA)
+   * - [anonymous]
+     - :user:`big-o`
+     - Individual
+     - Meta/Facebook
 
 Explanation of columns:
 * column 1: primary GitHub user identifier used for contributions to `sktime`
