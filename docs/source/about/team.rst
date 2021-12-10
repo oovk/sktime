@@ -106,6 +106,10 @@ Core Developers
      - :user:`MatthewMiddlehurst`
      - University of East Anglia
      - University of East Anglia
+   * - Patrick Schäfer
+     - :user:`patrickzib`
+     - Humboldt University of Berlin
+     - Humboldt University of Berlin
    * - Svea Marie Meyer
      - :user:`SveaMeyer13`
      - Individual
