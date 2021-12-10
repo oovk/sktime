@@ -79,7 +79,7 @@ Core Developers
      - Alfa iQ
    * - Jason Lines
      - :user:`jasonlines`
-     - University of East Anglia  
+     - University of East Anglia
    * - Markus Löning
      - :user:`mloning`
      - Freelancer; Shell Research (contracting)
