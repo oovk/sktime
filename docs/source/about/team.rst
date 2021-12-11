@@ -131,11 +131,11 @@ Former Core Developers (inactive)
    * - Name
      - GitHub ID
      - Affiliation of former contribution
-     - Affiliation of primary role
+     - Affiliation of former primary role
    * - Ayushmaan Seth
      - :user:`ayushmaanseth`
      - Individual
-     - Amazon
+     - University College London
    * - Hongyi Yang
      - :user:`hyang1996`
      - Individual
@@ -143,11 +143,11 @@ Former Core Developers (inactive)
    * - Mathew Smith
      - :user:`matteogales`
      - Individual
-     - Brevan Howard
+     - Individual
    * - Patrick Rockenschaub
      - :user:`prockenschaub`
      - University College London
-     - Sensyne Health; Charite Berlin
+     - University College London
    * - Ryan Kuhns
      - :user:`rnkuhns`
      - Individual
@@ -162,4 +162,4 @@ Explanation of columns:
 * column 2: primary GitHub user identifier used for contributions to `sktime`
 * column 3: affiliation which `sktime` contributions are subject to, that is,
 primary affiliation(s) of the role under which `sktime` contributions are made by the individual.
-* column 4: primary affiliation of the individual. This does not need to be equal to the primary affiliation of the `sktime` contributing role.
+* column 4: primary affiliation of the individual, at time of becoming inactive. This does not need to be equal to the primary affiliation of the `sktime` contributing role.
