@@ -52,8 +52,8 @@ Core Developers
 
    * - Name
      - GitHub ID
-     - Current affiliation of contribution
-     - Affiliation of primary role
+     - Affiliation of contribution
+     - Individual's primary affiliation
    * - Aaron Bostrom
      - :user:`abostrom`
      - University of East Anglia
@@ -93,15 +93,15 @@ Core Developers
    * - Markus Löning
      - :user:`mloning`
      - Individual; Shell Research
-     - Freelancer; Shell Research (contracting)
+     - Individual; Shell Research (contracting)
    * - Lovkush Agarwal
      - :user:`lovkush-a`
      - Individual
-     - Freelancer; Shell Research (contracting)
+     - Individual; Shell Research (contracting)
    * - Martin Walter
      - :user:`aiwalter`
-     - Mercedes-Benz
-     - Mercedes-Benz
+     - Individual; formerly Mercedes-Benz
+     - Individual; formerly Mercedes-Benz
    * - Matthew Middlehurst
      - :user:`MatthewMiddlehurst`
      - University of East Anglia
@@ -120,7 +120,7 @@ Explanation of columns:
 * column 2: primary GitHub user identifier used for contributions to `sktime`
 * column 3: affiliation which `sktime` contributions are subject to, that is,
 primary affiliation(s) of the role under which `sktime` contributions are made by the individual.
-* column 4: primary affiliation of the individual. This does not need to be equal to the primary affiliation of the `sktime` contributing role.
+* column 4: primary affiliation of the individual, current. This does not need to be equal to the primary affiliation of the `sktime` contributing role.
 
 Former Core Developers (inactive)
 ---------------------------------
@@ -131,7 +131,7 @@ Former Core Developers (inactive)
    * - Name
      - GitHub ID
      - Affiliation of former contribution
-     - Affiliation of former primary role
+     - Individual's (former) primary affiliation
    * - Ayushmaan Seth
      - :user:`ayushmaanseth`
      - Individual
